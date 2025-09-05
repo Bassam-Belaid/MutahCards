@@ -1,0 +1,6 @@
+C:\Users\Bassam\Desktop\CardsApp\CodeGenerator\bin\Debug\CodeGenerator.dll
+C:\Users\Bassam\Desktop\CardsApp\CodeGenerator\bin\Debug\CodeGenerator.pdb
+C:\Users\Bassam\Desktop\CardsApp\CodeGenerator\obj\Debug\CodeGeneratorApp.csproj.AssemblyReference.cache
+C:\Users\Bassam\Desktop\CardsApp\CodeGenerator\obj\Debug\CodeGeneratorApp.csproj.CoreCompileInputs.cache
+C:\Users\Bassam\Desktop\CardsApp\CodeGenerator\obj\Debug\CodeGenerator.dll
+C:\Users\Bassam\Desktop\CardsApp\CodeGenerator\obj\Debug\CodeGenerator.pdb

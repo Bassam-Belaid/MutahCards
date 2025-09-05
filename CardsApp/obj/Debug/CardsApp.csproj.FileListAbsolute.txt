@@ -1,0 +1,11 @@
+C:\Users\Bassam\Desktop\CardsApp\CardsApp\bin\Debug\CardsApp.exe.config
+C:\Users\Bassam\Desktop\CardsApp\CardsApp\bin\Debug\CardsApp.exe
+C:\Users\Bassam\Desktop\CardsApp\CardsApp\bin\Debug\CardsApp.pdb
+C:\Users\Bassam\Desktop\CardsApp\CardsApp\obj\Debug\CardsApp.csproj.AssemblyReference.cache
+C:\Users\Bassam\Desktop\CardsApp\CardsApp\obj\Debug\CardsApp.frmLogInForm.resources
+C:\Users\Bassam\Desktop\CardsApp\CardsApp\obj\Debug\CardsApp.Properties.Resources.resources
+C:\Users\Bassam\Desktop\CardsApp\CardsApp\obj\Debug\CardsApp.csproj.GenerateResource.cache
+C:\Users\Bassam\Desktop\CardsApp\CardsApp\obj\Debug\CardsApp.csproj.CoreCompileInputs.cache
+C:\Users\Bassam\Desktop\CardsApp\CardsApp\obj\Debug\CardsApp.exe
+C:\Users\Bassam\Desktop\CardsApp\CardsApp\obj\Debug\CardsApp.pdb
+C:\Users\Bassam\Desktop\CardsApp\CardsApp\obj\Debug\CardsApp.frmMainForm.resources
